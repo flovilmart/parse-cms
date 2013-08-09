@@ -1,0 +1,9 @@
+[submodule "FPPopover"]
+	path = FPPopover
+	url = https://github.com/50pixels/FPPopover.git
+[submodule "ViewDeck"]
+	path = ViewDeck
+	url = https://github.com/Inferis/ViewDeck.git
+[submodule "SDWebImage"]
+	path = SDWebImage
+	url = git@github.com:vfloz/SDWebImage.git
